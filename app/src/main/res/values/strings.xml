@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parallax</string>
+    <string name="scroll_to_continue">Scroll to continue\n</string>
+    <string name="interact_by_scrolling_or_rotating">Interact by scrolling or rotating\n</string>
+</resources>
